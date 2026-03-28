@@ -30,6 +30,14 @@ This project focuses on analyzing retail operations and inventory turnover for a
 > **Strategic Note:** The lower reorder rate in **Snacks** (57.4%) despite high volume suggests a business opportunity to improve brand placement or promotional strategies to convert one-time buyers into recurring customers..
 Snacks,2.8M,57.4%,Opportunity to improve brand loyalty/promotions.
 
+### 📊 Dashboard Visualization
+To complement the SQL analysis, I developed an executive dashboard to monitor sales trends and customer behavior in real-time.
+
+![Executive Dashboard Preview](Images/Retail_Performance_Dashboard.png)
+
+> [!TIP]
+> [📄 Click here to view the Full Executive Report (PDF)](./Retail_Performance_Dashboard_.pdf)
+
 ---
 *Project developed as part of my transition into Data Analytics, combining my regional retail supervision background with technical data skills.*
 
